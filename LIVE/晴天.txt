@@ -226,9 +226,9 @@ CHC家庭影院,mitv://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21
 港台电视31,mitv://generationnexxxt.com:19806/e4b56cb972e940ee8be694602294d242
 港台电视32,mitv://generationnexxxt.com:19806/9c0a161f9c59476584fe4d8effc125b6
 HOY TV,mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
-﻿翡翠台(备),mitv://147.135.39.171:9906/65a4e8350007683646f034780a032936
+﻿翡翠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
 J2,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
-无线新闻台(备),mitv://147.135.39.171:9906/65af205400009f3c6edb7a235cfa4c88
+无线新闻台,mitv://147.135.39.171:9906/65af205400009f3c6edb7a235cfa4c88
 无线新闻台,mitv://147.135.39.171:9906/65ab4a55000e0bf85fdf91767a57713b
 无线财经体育资讯台,mitv://generationnexxxt.com:19806/65b212f60006eae40fdd362b7ad67084
 ViuTVsix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
@@ -243,7 +243,6 @@ now新闻台,mitv://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
 HKC 18,mitv://generationnexxxt.com:19806/140377dc9e0848678d614d451d69af9e
 戏曲台,mitv://generationnexxxt.com:19806/4c3b3c3a6c8849c3aa0fc9938859e134
 TVB娱乐新闻台,mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
-翡翠台,mitv://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7
 千禧经典台,mitv://generationnexxxt.com:19806/1a5b04c67ece47bb87aa482e2c73138a
 Thrill,mitv://generationnexxxt.com:19806/1c3c73215afd42558101c3ee65737202
 明珠台,mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9
